@@ -1,40 +1,26 @@
 <div align="center">
 
-# 👋 Hi, I'm Jafar Jafarov
+# Jafar Jafarov
 
-### .NET Backend Developer | Software Engineer
+**.NET Backend Developer**
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=2BF723&center=true&vCenter=true&width=650&lines=.NET+Backend+Developer;Clean+Architecture+%7C+CQRS+%7C+DDD;Distributed+Systems+%7C+Performance;Security+%7C+OAuth+2.0+%7C+OpenID+Connect" />
+`C#` · `.NET` · `ASP.NET Core` · `Distributed Systems` · `Security`
 
 <br/>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<a href="https://www.linkedin.com/in/jafar-jafarov/">
+  <img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
+</a>
+&nbsp;
+<a href="https://medium.com/@jafar-jafarov">
+  <img src="https://img.shields.io/badge/Medium-Articles-000000?style=flat-square&logo=medium&logoColor=white" />
+</a>
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
-
-I'm a **.NET Backend Developer** focused on building scalable, maintainable and secure backend systems.
-
-My main interests are:
-
-* 🏗️ Clean Architecture & Domain-Driven Design
-* ⚡ Performance & Concurrency
-* 🔄 Distributed Systems
-* 🔐 Authentication & Authorization
-* 📦 CQRS & MediatR
-* 🗄️ Database Design & Optimization
-* 🐳 Docker & Cloud Technologies
-
-I enjoy understanding **how things work under the hood**, not just how to use them.
-
----
-
-## 🧠 Core Expertise
-
-### ⚙️ Backend
+## ⚙️ Backend
 
 <p>
   <img src="https://skillicons.dev/icons?i=cs,dotnet,aspnet" />
@@ -42,91 +28,36 @@ I enjoy understanding **how things work under the hood**, not just how to use th
 
 `C#` · `.NET` · `ASP.NET Core` · `EF Core` · `LINQ` · `MediatR`
 
-### 🏗️ Architecture
+## 🏗️ Architecture
 
-```text
-Clean Architecture
-Domain-Driven Design
-CQRS
-SOLID
-Design Patterns
-Dependency Injection
-RESTful APIs
-Distributed Systems
-```
+`Clean Architecture` · `CQRS` · `DDD` · `SOLID` · `Design Patterns`
 
-### 🗄️ Databases
+## 🗄️ Databases
 
 <p>
-  <img src="https://skillicons.dev/icons?i=mssql,postgres,mysql,sqlite,redis" />
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,redis" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="48" height="48" />
 </p>
 
-`MsSQL` · `PostgreSQL` · `MySQL` · `SQLite` · `Redis`
+`MS SQL Server` · `PostgreSQL` · `MySQL` · `SQLite` · `Redis`
 
-I care about:
-
-* Query Performance
-* Indexing
-* Transactions
-* Connection Management
-* Caching
-* Database Optimization
-
----
-
-## 📨 Messaging & Distributed Systems
+## 📨 Messaging
 
 <p>
   <img src="https://skillicons.dev/icons?i=rabbitmq,redis" />
 </p>
 
-`RabbitMQ` · `Redis`
-
-Interested in:
-
-* Message Queues
-* Event-Driven Architecture
-* Caching
-* Distributed Locks
-* Idempotency
-* Retry & Resilience
-* Eventual Consistency
-
----
+`RabbitMQ` · `Redis` · `Event-Driven Architecture` · `Idempotency`
 
 ## 🔐 Security
 
-```text
-JWT
-OAuth 2.0
-OpenID Connect
-PKCE
-Refresh Token Rotation
-Token Reuse Detection
-RBAC
-OWASP
-```
+`JWT` · `OAuth 2.0` · `OpenID Connect` · `PKCE` · `RBAC` · `OWASP`
 
----
+## ⚡ Performance
 
-## ⚡ Performance & Concurrency
+`Concurrency` · `ThreadPool` · `Task` · `Parallel` · `SemaphoreSlim` · `Channels` · `GC`
 
-```text
-Task
-ThreadPool
-Parallel
-Task.WhenAll
-SemaphoreSlim
-Channels
-CancellationToken
-Memory<T>
-Span<T>
-GC & Allocations
-```
-
----
-
-## 🛠️ Tools & DevOps
+## 🛠️ Tools
 
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,docker,azure,postman,linux" />
@@ -136,72 +67,12 @@ GC & Allocations
 
 ---
 
-## 🚀 What I Like Building
-
-```text
-Backend APIs
-      ↓
-Clean Architecture
-      ↓
-CQRS + MediatR
-      ↓
-Reliable Data Access
-      ↓
-Caching + Messaging
-      ↓
-Security
-      ↓
-Performance
-      ↓
-Scalable Systems
-```
-
----
-
-## 🔥 GitHub Streak
-
 <div align="center">
 
 <img src="https://streak-stats.demolab.com?user=jafar-jafarov&theme=github-dark-blue&hide_border=true" />
 
-</div>
+<br/><br/>
 
----
-
-## 💬 Ask Me About
-
-`C#` · `.NET` · `ASP.NET Core` · `Clean Architecture` · `CQRS` · `EF Core` · `PostgreSQL` · `Redis` · `RabbitMQ` · `JWT` · `OAuth 2.0` · `OpenID Connect` · `Concurrency`
-
----
-
-## 🌐 Connect With Me
-
-<p align="left">
-
-<a href="https://www.linkedin.com/in/jafar-jafarov/" target="_blank">
-  <img src="https://skillicons.dev/icons?i=linkedin" width="45" />
-</a>
-
-<a href="https://medium.com/@jafar-jafarov" target="_blank">
-  <img src="https://cdn.simpleicons.org/medium/white" width="45" />
-</a>
-
-</p>
-
----
-
-<div align="center">
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<br/>
-
-### 💡 "Good software is not just about making things work.
-
-### It's about making them easy to change."
-
-<br/>
-
-**Jafar-Jafarov · .NET Backend Developer**
+**Building backend systems that are simple to maintain, secure, and ready to scale.**
 
 </div>
