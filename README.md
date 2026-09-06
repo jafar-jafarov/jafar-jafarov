@@ -55,8 +55,10 @@ RESTful APIs
 Distributed Systems
 
 
-🗄️ Databases
-<p> <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,redis" /> </p>
+### 🗄️ Databases
+<p>
+   <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,redis" />
+</p>
 
 PostgreSQL MySQL SQLite Redis
 
