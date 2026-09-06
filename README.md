@@ -61,7 +61,7 @@ Distributed Systems
   <img src="https://skillicons.dev/icons?i=mssql,postgres,mysql,sqlite,redis" />
 </p>
 
-`MsSql` ·`PostgreSQL` · `MySQL` · `SQLite` · `Redis`
+`MsSQL` · `PostgreSQL` · `MySQL` · `SQLite` · `Redis`
 
 I care about:
 
@@ -158,8 +158,6 @@ Scalable Systems
 
 ---
 
-
-
 ## 🔥 GitHub Streak
 
 <div align="center">
@@ -179,9 +177,15 @@ Scalable Systems
 ## 🌐 Connect With Me
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/jafar-jafarov/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" width="45" />
-  </a>
+
+<a href="https://www.linkedin.com/in/jafar-jafarov/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=linkedin" width="45" />
+</a>
+
+<a href="https://medium.com/@jafar-jafarov" target="_blank">
+  <img src="https://cdn.simpleicons.org/medium/white" width="45" />
+</a>
+
 </p>
 
 ---
