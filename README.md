@@ -58,10 +58,10 @@ Distributed Systems
 ### 🗄️ Databases
 
 <p>
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,redis" />
+  <img src="https://skillicons.dev/icons?i=mssql,postgres,mysql,sqlite,redis" />
 </p>
 
-`PostgreSQL` · `MySQL` · `SQLite` · `Redis`
+`MsSql` ·`PostgreSQL` · `MySQL` · `SQLite` · `Redis`
 
 I care about:
 
@@ -136,19 +136,6 @@ GC & Allocations
 
 ---
 
-## 📚 Currently Learning
-
-```text
-🔐 OAuth 2.0 & OpenID Connect
-🛡️ Authentication & Authorization
-⚡ Advanced .NET Performance
-🧵 Concurrency & Parallel Programming
-🌐 Distributed Systems
-🏗️ System Design
-```
-
----
-
 ## 🚀 What I Like Building
 
 ```text
@@ -171,17 +158,7 @@ Scalable Systems
 
 ---
 
-## 📊 GitHub Stats
 
-<div align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=jafar-jafarov&show_icons=true&theme=github_dark&hide_border=true&count_private=true" />
-
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jafar-jafarov&layout=compact&theme=github_dark&hide_border=true&langs_count=8" />
-
-</div>
-
----
 
 ## 🔥 GitHub Streak
 
