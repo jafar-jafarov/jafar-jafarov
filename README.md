@@ -53,3 +53,56 @@ Design Patterns
 Dependency Injection
 RESTful APIs
 Distributed Systems
+
+
+🗄️ Databases
+<p> <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,redis" /> </p>
+
+PostgreSQL MySQL SQLite Redis
+
+I care about:
+
+Query performance
+Indexing
+Transactions
+Connection management
+Caching
+Database optimization
+
+
+📨 Messaging & Distributed Systems
+<p> <img src="https://skillicons.dev/icons?i=rabbitmq,redis" /> </p>
+
+RabbitMQ Redis
+
+Interested in:
+
+Message Queues
+Event-Driven Architecture
+Caching
+Distributed Locks
+Idempotency
+Retry & Resilience
+Eventual Consistency
+
+🛠️ Tools & DevOps
+<p> <img src="https://skillicons.dev/icons?i=git,github,docker,azure,postman,linux" /> </p>
+
+Git GitHub Docker Azure Postman Linux
+
+
+
+💬 Ask Me About
+
+C# · .NET · ASP.NET Core · Clean Architecture · CQRS · EF Core · PostgreSQL · Redis · RabbitMQ · JWT · OAuth 2.0 · OpenID Connect · Concurrency
+
+🌐 Connect With Me
+<p align="left"> <a href="https://www.linkedin.com/in/jafar-jafarov/" target="_blank"> <img src="https://skillicons.dev/icons?i=linkedin" width="45" /> </a> </p>
+<div align="center"> <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+💡 "Good software is not just about making things work.
+It's about making them easy to change."
+<br>
+
+Jafar-Jafarov · .NET Backend Developer
+
+</div> ```
